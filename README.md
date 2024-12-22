@@ -1,7 +1,7 @@
 # Heart Attack Prediction
 Heart Attack Risk Evaluation using Logistic Regression
 
-This project was a team project conducted as part of the ISYE 6414 Regression Analysis course. My contribution for the project is including but not limited to:
+This project was a team project conducted as part of the [ISYE 6414 Regression Analysis course](https://oscar.gatech.edu/bprod/bwckctlg.p_disp_course_detail?cat_term_in=202408&subj_code_in=ISYE&crse_numb_in=6414) at Georgia Tech during Fall 2024. My contribution for the project is including but not limited to:
 
 * constructing the overall structure of analysis
 * writing the majority of R codes
